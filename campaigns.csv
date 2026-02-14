@@ -1,0 +1,51 @@
+campaign_id,channel,objective,start_date,end_date,target_segment,expected_uplift
+1,Paid Search,Cross-sell,2021-10-25,2021-11-26,Deal Seekers,0.022
+2,Email,Retention,2021-10-24,2021-12-24,Deal Seekers,0.116
+3,Email,Reactivation,2023-10-08,2023-11-30,Churn Risk,0.1
+4,Display,Reactivation,2022-07-25,2022-10-07,Deal Seekers,0.111
+5,Social,Acquisition,2022-07-09,2022-09-29,New Customers,0.144
+6,Affiliate,Reactivation,2021-10-20,2021-12-03,New Customers,0.087
+7,Paid Search,Cross-sell,2023-07-02,2023-08-10,High Value,0.136
+8,Paid Search,Cross-sell,2021-08-23,2021-09-30,Churn Risk,0.128
+9,Social,Retention,2023-10-09,2023-12-30,All,0.113
+10,Email,Cross-sell,2022-09-01,2022-10-22,Churn Risk,0.034
+11,Affiliate,Reactivation,2022-11-02,2023-01-14,Churn Risk,0.104
+12,Email,Acquisition,2021-01-20,2021-02-21,Churn Risk,0.032
+13,Display,Reactivation,2022-03-19,2022-06-09,Churn Risk,0.063
+14,Email,Retention,2022-09-20,2022-09-29,High Value,0.092
+15,Social,Retention,2022-04-29,2022-05-10,New Customers,0.086
+16,Email,Reactivation,2023-08-10,2023-10-15,All,0.118
+17,Display,Retention,2023-04-05,2023-04-24,High Value,0.14
+18,Affiliate,Retention,2022-10-09,2022-12-07,All,0.139
+19,Affiliate,Acquisition,2021-11-28,2022-01-29,New Customers,0.087
+20,Social,Reactivation,2021-07-26,2021-09-23,New Customers,0.059
+21,Email,Acquisition,2023-02-21,2023-03-27,Churn Risk,0.09
+22,Affiliate,Reactivation,2022-07-02,2022-09-18,High Value,0.038
+23,Paid Search,Retention,2022-10-25,2023-01-19,Deal Seekers,0.107
+24,Display,Acquisition,2021-11-07,2022-01-06,New Customers,0.063
+25,Paid Search,Cross-sell,2021-03-19,2021-04-11,High Value,0.119
+26,Email,Reactivation,2023-08-13,2023-11-01,Deal Seekers,0.037
+27,Display,Retention,2022-04-01,2022-04-11,New Customers,0.057
+28,Affiliate,Acquisition,2021-09-02,2021-09-11,New Customers,0.093
+29,Email,Acquisition,2021-12-26,2022-02-26,New Customers,0.14
+30,Social,Acquisition,2023-11-04,2024-01-06,Deal Seekers,0.052
+31,Affiliate,Cross-sell,2023-10-26,2023-12-03,High Value,0.108
+32,Social,Reactivation,2021-08-05,2021-10-16,Churn Risk,0.051
+33,Display,Cross-sell,2022-02-15,2022-04-18,All,0.1
+34,Email,Reactivation,2023-03-19,2023-05-13,Churn Risk,0.042
+35,Display,Acquisition,2022-11-06,2022-11-26,High Value,0.046
+36,Display,Reactivation,2023-04-03,2023-06-10,Deal Seekers,0.117
+37,Paid Search,Cross-sell,2022-10-20,2022-12-01,Deal Seekers,0.096
+38,Paid Search,Reactivation,2021-12-18,2022-01-31,All,0.065
+39,Affiliate,Retention,2023-03-08,2023-05-11,New Customers,0.108
+40,Display,Cross-sell,2022-07-25,2022-09-07,New Customers,0.105
+41,Social,Retention,2023-04-09,2023-04-17,All,0.058
+42,Paid Search,Retention,2023-04-22,2023-06-29,High Value,0.051
+43,Paid Search,Cross-sell,2023-03-12,2023-04-18,Deal Seekers,0.078
+44,Affiliate,Reactivation,2021-01-31,2021-04-17,All,0.141
+45,Affiliate,Retention,2022-04-08,2022-06-15,Churn Risk,0.114
+46,Social,Cross-sell,2023-03-23,2023-04-17,All,0.03
+47,Affiliate,Cross-sell,2022-04-12,2022-06-04,High Value,0.066
+48,Paid Search,Acquisition,2022-01-05,2022-04-04,New Customers,0.099
+49,Paid Search,Reactivation,2021-04-09,2021-05-24,Deal Seekers,0.128
+50,Email,Retention,2021-02-14,2021-03-24,Churn Risk,0.023
