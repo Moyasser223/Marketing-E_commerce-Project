@@ -1,3 +1,10 @@
+![Python](https://img.shields.io/badge/Python-3.x-3776AB?logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-Data%20Analytics-150458?logo=pandas&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-ML-F7931E?logo=scikit-learn&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-F2C811?logo=powerbi&logoColor=black)
+![E-Commerce](https://img.shields.io/badge/Domain-E--Commerce-blueviolet)
+![Project Status](https://img.shields.io/badge/Status-Production%20Ready-success)
+
  # 🚀 E-Commerce Marketing & Sales Analytics Project
 
 This project is an end-to-end E-Commerce Analytics solution combining Python-based data processing and Machine Learning with a 6-page professional Power BI dashboard designed for executive and marketing decision-making.
