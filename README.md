@@ -4,11 +4,9 @@
 ![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-F2C811?logo=powerbi&logoColor=black)
 ![E-Commerce](https://img.shields.io/badge/Domain-E--Commerce-blueviolet)
 ![Project Status](https://img.shields.io/badge/Status-Production%20Ready-success)
-<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=blur&color=0:0f2027,100:2c5364&height=200&section=header&text=E-Commerce%20Analytics&fontSize=40&fontColor=ffffff" />
 
-</div>
+
 # 🚀E-Commerce Marketing & Sales Analytics Project
 
 This project is an end-to-end E-Commerce Analytics solution combining Python-based data processing and Machine Learning with a 6-page professional Power BI dashboard designed for executive and marketing decision-making.
